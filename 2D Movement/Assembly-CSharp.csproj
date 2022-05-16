@@ -45,9 +45,9 @@
      <Compile Include="Assets/Scripts/Enemies/EnemyGFX.cs" />
      <Compile Include="Assets/Scripts/Effects/DestroyOnExit.cs" />
      <Compile Include="Assets/Bandits - Pixel Art/Demo/Sensor_Bandit.cs" />
-     <Compile Include="Assets/PlayerCombat.cs" />
+     <Compile Include="Assets/Scripts/Player/PlayerCombat.cs" />
      <Compile Include="Assets/Scripts/Player/PlayerMovement.cs" />
-     <Compile Include="Assets/BanditEnemy.cs" />
+     <Compile Include="Assets/Scripts/Enemies/BanditEnemy.cs" />
      <Compile Include="Assets/Scripts/Enemies/Enemy.cs" />
      <Compile Include="Assets/Scripts/Weapons/Bullet.cs" />
      <Compile Include="Assets/Scripts/Weapons/Weapon.cs" />
