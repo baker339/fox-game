@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/2D Platformer Controller/Scenes/Demo.unity
+  - enabled: 0
+    path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d28e836992b294206a10a939f29c6aef
+  - enabled: 1
+    path: Assets/Scenes/Fox Game Home Camp.unity
+    guid: 3f17a7ca985f64ec6a481477dd05c656
   m_configObjects: {}
